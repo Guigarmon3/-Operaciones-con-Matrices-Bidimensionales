@@ -24,11 +24,11 @@ Al ejecutar el método `main`, el programa permite:
 
 1. Compilar el archivo:
    ```
-    javac Bidireccionales2.java
+    javac main.java
    ```
 3. Ejecutar la aplicación:
    ```
-    java Bidireccionales2
+    java main
    ```
 ### Interacción
 
