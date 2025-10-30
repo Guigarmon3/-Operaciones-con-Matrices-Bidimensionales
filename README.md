@@ -23,24 +23,27 @@ Al ejecutar el método `main`, el programa permite:
 ## ⚙️ Uso
 
 1. Compilar el archivo:
+   ```
     javac Bidireccionales2.java
-
-2. Ejecutar la aplicación:
+   ```
+3. Ejecutar la aplicación:
+   ```
     java Bidireccionales2
-
+   ```
 ### Interacción
 
 Al iniciar el programa:
 
 1. Se generan y muestran dos matrices con números aleatorios.
 2. Se despliega el menú de operaciones:
+   ```
    Que quieres hacer?
    1. Sumar matrices
    2. Restar matrices
    3. Multiplicar matrices
    4. Calcular A'
-
-3. Tras mostrar el resultado, puedes elegir si repetir el programa o salir.
+   ```
+4. Tras mostrar el resultado, puedes elegir si repetir el programa o salir.
 
 ---
 
